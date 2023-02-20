@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-puts('/"programming is like building a malti puzzle")
+puts('/"programming is like building a malti puzzle");
 return (0);
 }
