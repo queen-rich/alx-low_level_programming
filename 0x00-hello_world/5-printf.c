@@ -5,6 +5,6 @@
  */
 int Main(void)
 {
-	printf("with proper gramerbut the outcome is a piece of art,*/ n")
+	printf("with proper gramer but the outcome is a piece of art,*/ n");
 		return (0);
 }
