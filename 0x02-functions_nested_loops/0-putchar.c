@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * ls written by ronke
+ * ls written by mbah
  * Return: 0
  */
 
@@ -16,5 +16,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
-Return: (0);
+return (0);
 }
