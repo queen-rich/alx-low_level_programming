@@ -5,12 +5,12 @@
  * Return: the numbers since 0 up to 9
  */
 
-vold print_number(void)
+vold print_numbers(void)
 {
 	int x;
 	for (x = 0; x <= 9; x++)
 	{
-		_putchar(x + '0');
+	_putchar(x + '0');
 	}
 	_putchar('/n');
 }
