@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * mul - multipies two integer
  * @x: the first number to multiply
@@ -11,7 +10,6 @@
 int mul(int x, int y)
 
 {
-
        	return (x*y);
 
 }
