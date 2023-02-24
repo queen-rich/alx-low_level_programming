@@ -5,10 +5,10 @@
  * Return: the numbers since 0 up to 9
  */
 
-vold print - number(void)
+vold print_number(void)
 {
 	int x;
-	for (x = 0; x <= 0; x++)
+	for (x = 0; x <= 9; x++)
 	{
 		_putchar(x + '0');
 	}
